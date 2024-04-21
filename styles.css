@@ -119,3 +119,13 @@ font-family: "Open Sans", sans-serif;
         display: none;
     }
 }
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:dodgerblue;
+}
+a:active{
+    color:black;
+}
